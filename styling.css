@@ -19,9 +19,10 @@ footer a {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 25px 16px;
+    padding: 25px 10px;
     font-size: 20px;
     text-decoration: none;
+    margin-left: 2vw;
 }
 
 footer a:hover {
@@ -34,9 +35,9 @@ footer a:hover {
     margin-top: 0.5vw;
     margin-left: 2vw;
 }
-
-#first-image {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
+/*page2*/
+#presentation-box {
+    margin-top: 0.5vw;
+    margin-left: 2vw;
+    width: 50%
 }
