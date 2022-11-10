@@ -34,3 +34,9 @@ footer a:hover {
     margin-top: 0.5vw;
     margin-left: 2vw;
 }
+
+#first-image {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
