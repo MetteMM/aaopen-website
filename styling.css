@@ -39,7 +39,7 @@ footer a:hover {
 #presentation-box {
     margin-top: 0.5vw;
     margin-left: 2vw;
-    width: 50%
+    width: 50%;
 }
 /*page3*/
 .work-presentation {
@@ -56,4 +56,11 @@ footer a:hover {
 
 #last-img {
     margin-bottom: 10%;
+}
+
+/*page4*/
+#contact-div {
+    margin-top: 0.5vw;
+    margin-left: 2vw;
+    width: 30%;
 }
