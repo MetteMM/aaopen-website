@@ -41,3 +41,19 @@ footer a:hover {
     margin-left: 2vw;
     width: 50%
 }
+/*page3*/
+.work-presentation {
+    margin-top: 0.5vw;
+    margin-left: 2vw;
+    margin-bottom: 20px;
+}
+.work-presentation p {
+    font-size: 15px;
+}
+.work-presentation img {
+    border: 5px solid black;
+}
+
+#last-img {
+    margin-bottom: 10%;
+}
